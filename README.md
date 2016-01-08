@@ -1,0 +1,1 @@
+This is a repository for best practices for using Git and Github at MIS.
